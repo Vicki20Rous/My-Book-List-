@@ -3,6 +3,9 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+// import LogRocket from 'logrocket';
+
+// LogRocket.init('1hwfla/stack_tutorial');
 
 ReactDOM.render(
   <React.StrictMode>
